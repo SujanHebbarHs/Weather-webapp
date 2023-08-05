@@ -9,7 +9,7 @@
 
 :root{
     --main-bg:#1e272e;
-    --main-color:#0097e6;
+    --main-color:#314957;
 }
 
 html{
@@ -36,7 +36,7 @@ body{
 }
 
 .navbar{
-    color:#fff;
+    color:#e6cfcf;
     background-color: var(--main-bg);
     padding:2rem 0;
 }
